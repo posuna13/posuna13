@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-<!-- <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" /> -->
+<img src="https://i.pinimg.com/736x/d6/57/3c/d6573c75507eb26ed5bebe7968147ce4.jpg" width="25%" align="right" />
 <br><br>
 <pre>
     💼 Estudiante de DAMv1 @ ITB
