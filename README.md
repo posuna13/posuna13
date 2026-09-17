@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Pau
 <div align="center">
-<img src="https://i.pinimg.com/736x/d6/57/3c/d6573c75507eb26ed5bebe7968147ce4.jpg" width="25%" align="right" />
+<img src="https://i.pinimg.com/736x/d6/57/3c/d6573c75507eb26ed5bebe7968147ce4.jpg" width="30%" align="right" />
 <br><br>
 <pre>
     💼 Estudiante de DAMv1 @ ITB
