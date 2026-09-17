@@ -1,3 +1,4 @@
+<div align="center">
 
 <img src="https://media.discordapp.net/attachments/791774997295005736/1550199914401898616/2026-09-17-Hello-feel-free-to-explore-.gif?ex=6aad77ac&is=6aac262c&hm=68275982dd8ca5aa895dd4ed0551bd42a41667e8b43ed2ba0d46a18e80f91c9f&=" align="center" />
 
