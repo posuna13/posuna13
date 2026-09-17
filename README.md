@@ -8,7 +8,8 @@
     🎮 Videojuegos · Anime · Arte · Literatura · Peliculas
 </pre>
 <br>
-
+<img src="https://media.tenor.com/PO8RHMM6B5kAAAAj/garchomp-pok%C3%A9mon-pok%C3%A9mon.gif" height="100" />
+<br><br>
 
 <!--
 **posuna13/posuna13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
