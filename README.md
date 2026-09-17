@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://media.discordapp.net/attachments/791774997295005736/1550199914401898616/2026-09-17-Hello-feel-free-to-explore-.gif?ex=6aad77ac&is=6aac262c&hm=68275982dd8ca5aa895dd4ed0551bd42a41667e8b43ed2ba0d46a18e80f91c9f&=" align="center" />
-
+<img src="https://media.discordapp.net/attachments/791774997295005736/1550206911545090108/cooltext515656399952475.png?ex=6aad7e31&is=6aac2cb1&hm=2f7450eef7df2bc3fd1795fceadb82bf5cb42dddb524790c6d4e964b936ac9fc&=&format=webp&quality=lossless&width=2048&height=70" align="center" />
+<br><br>
 <img src="https://i.pinimg.com/736x/d6/57/3c/d6573c75507eb26ed5bebe7968147ce4.jpg" width="30%" align="right" />
 <br><br>
 <pre>
