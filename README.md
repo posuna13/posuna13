@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<br><br>
+<pre>
+    💼 Estudiante de DAMv1 @ ITB
+    💻 Técnico de Sistemas Microinformáticos y Redes
+    🎮 Music • Games • Anime • Code • Art
+</pre>
+<br>
+
 <!--
 **posuna13/posuna13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
